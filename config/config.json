@@ -1,0 +1,10 @@
+{
+  "server": {
+    "port": "8081"
+  },
+  "oauth": {
+    "clientId": "cazalExamen",
+    "clientSecret":"examenDe!=test98%a",
+    "accessTokenLifetime":315576000
+  }
+}
